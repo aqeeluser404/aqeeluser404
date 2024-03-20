@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqeel</h1>
 <h3 align="center">I'm genuinely hooked on crafting cool creations through coding.</h3>
 
-- 🔭 I’m currently working on [SecurePass: Password Manager](https://github.com/aqeeluser404/SecurePassApp)
+- 🔭 I’m currently working on [SecurePass: Password Manager](https://github.com/aqeeluser404/secure-pass-mven)
 
 - 🌱 I’m currently learning **Vue.js, JSON Web Tokens**
 
