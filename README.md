@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Aqeel</h1>
 <h3 align="left">I'm genuinely hooked on crafting cool creations through coding.</h3>
 
+<hr>
+
 - 🔭 I’m currently working on [SecurePass: Password Manager](https://github.com/aqeeluser404/secure-pass-mven)
 
 - 🌱 I’m currently learning **Vue.js, JSON Web Tokens**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aqeeluser404?tab=repositories](https://github.com/aqeeluser404?tab=repositories)
 
 - 📫 How to reach me **aqeelhanslo@gmail.com**
 
