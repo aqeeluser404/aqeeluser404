@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Aqeel</h1>
 <h3 align="left">I'm genuinely hooked on crafting cool creations through coding.</h3>
 
-<hr>
-
 - 🔭 I’m currently working on [SecurePass: Password Manager](https://github.com/aqeeluser404/secure-pass-mven)
 
 - 🌱 I’m currently learning **Vue.js, JSON Web Tokens**
@@ -13,6 +11,8 @@
 
 - ⚡ Fun fact **I am creative**
 
+<br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aqeel hanslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeel hanslo" height="30" width="40" /></a>
