@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SecurePass: Password Manager](https://github.com/aqeeluser404/secure-pass-mven)
 
-- 🌱 I’m currently learning **Vue.js, JSON Web Tokens**
+- 🌱 I’m currently learning **Quasar, JSON Web Tokens**
 
 - 📫 How to reach me **aqeelhanslo@gmail.com**
 
