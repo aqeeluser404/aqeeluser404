@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aqeel</h1>
 <h3 align="left">I'm genuinely hooked on crafting cool creations through coding.</h3>
 
-- 🔭 I’m currently working on [SecurePass: Password Manager](https://github.com/aqeeluser404/secure-pass-mven)
+- 🔭 I’m currently working on [Shaded Eyewear: Sunglasses & Eyewear Shop](https://github.com/aqeeluser404/shaded-eyewear-frontend)
 
 - 🌱 I’m currently learning **Quasar, JSON Web Tokens**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aqeel hanslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeel hanslo" height="30" width="40" /></a>
-<a href="https://instagram.com/aqeeluser404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqeeluser404" height="30" width="40" /></a>
+<a href="https://instagram.com/aqeel__hanslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqeeluser404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
