@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aqeel</h1>
-<h3 align="left">I'm genuinely hooked on crafting cool creations through coding.</h3>
+<h3 align="left">Software Developer | Junior Fullstack </h3>
+
+I thrive on crafting efficient, scalable, and secure web applications, bringing creativity and precision to every project.
 
 ## 🔭 Current Project  
 - **[The Web: A Flat Rental Platform](https://github.com/aqeeluser404/the-web-express)** – Developing a robust web solution for rental listings.  
