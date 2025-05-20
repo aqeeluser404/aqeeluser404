@@ -1,15 +1,22 @@
 <h1 align="left">Hi 👋, I'm Aqeel</h1>
 <h3 align="left">I'm genuinely hooked on crafting cool creations through coding.</h3>
 
-- 🔭 I’m currently working on [Shaded Eyewear: Sunglasses & Eyewear Shop](https://github.com/aqeeluser404/shaded-eyewear-frontend)
+## 🔭 Current Project  
+- **[The Web: A Flat Rental Platform](https://github.com/aqeeluser404/the-web-express)** – Developing a robust web solution for rental listings.  
 
-- 🌱 I’m currently learning **Quasar, JSON Web Tokens**
+## ✅ Previous Work  
+- **[Shaded Eyewear: Sunglasses & Eyewear Shop](https://github.com/aqeeluser404/shaded-eyewear-frontend)** – Designed and deployed an e-commerce platform for stylish eyewear.  
 
-- 📫 How to reach me **aqeelhanslo@gmail.com**
+## 🚀 Tech & Learning  
+- Actively enhancing backend expertise with **PHP and scalable architectures**.  
+- Prioritizing structured logging, debugging, and system optimization.  
 
-- 📄 Know about my experiences [https://aqeel-dev-portfolio.web.app](https://aqeel-dev-portfolio.web.app)
+## 📫 Connect with Me  
+- **Email:** aqeelhanslo@gmail.com  
+- **Portfolio:** [aqeel-dev-portfolio.web.app](https://aqeel-dev-portfolio.web.app)  
 
-- ⚡ Fun fact **I am creative**
+## ⚡ Fun Fact  
+**Coding isn’t just my skill—it’s my obsession!**  
 
 <hr>
 <h3 align="left">Connect with me:</h3>
