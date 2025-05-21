@@ -105,7 +105,7 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
       <a href="https://spring.io/projects/spring-boot" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>Spring Boot
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com" target="_blank">
