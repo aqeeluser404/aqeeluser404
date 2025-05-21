@@ -39,10 +39,10 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
   </tr>
 </table>
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
+
 <table>
   <tr>
-    <!-- Row 1 -->
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
@@ -69,7 +69,7 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
     </td>
     <td align="center" width="96">
       <a href="https://quasar.dev/" target="_blank">
-        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo-vertical.svg" width="48" height="48" alt="Quasar" />
+        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" height="48" alt="Quasar" />
       </a>
       <br>Quasar
     </td>
