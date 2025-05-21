@@ -13,14 +13,14 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
 - Actively enhancing backend expertise with **PHP and scalable architectures**.  
 - I'm focused on building reusable, scalable components - because good architecture means shipping faster and maintaining less.
 
+## ⚡ Fun Fact  
+**Coding isn’t just my skill, it’s my obsession!**  
+
 ## 📫 Connect with Me  
 - **Email:** aqeelhanslo@gmail.com  
 - **Portfolio:** [aqeel-dev-portfolio.web.app](https://aqeel-dev-portfolio.web.app)  
 
-## ⚡ Fun Fact  
-**Coding isn’t just my skill, it’s my obsession!**  
-
-<h3 align="left">🔗 Connect with Me:</h3>
+## 🔗 Socials:
 <p align="left">
   <a href="https://linkedin.com/in/aqeel-hanslo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeel-hanslo" height="30" width="40" />
