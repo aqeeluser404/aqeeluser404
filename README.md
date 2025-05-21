@@ -52,12 +52,12 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slim/slim-original.svg" alt="Slim" width="40" height="40"/></td>
+    <td><img src="https://www.svgrepo.com/svg/452088/php" alt="PHP" width="40" height="40"/></td>
+    <td><img src="https://commons.wikimedia.org/wiki/File:MongoDB_Logo.svg" alt="MongoDB" width="40" height="40"/></td>
+    <td><img src="https://www.figma.com/favicon.ico" alt="Figma" width="40" height="40"/></td>
+    <td><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.svg" alt="WordPress" width="40" height="40"/></td>
+    <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/></td>
+    <td><img src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" alt="After Effects" width="40" height="40"/></td>
     <td><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Quasar" width="40" height="40"/></td>
   </tr>
 </table>
