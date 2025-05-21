@@ -39,26 +39,100 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
   </tr>
 </table>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-
+<h3 align="left">🛠️ Tech Stack</h3>
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
+    <!-- Row 1 -->
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://quasar.dev/" target="_blank">
+        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo-vertical.svg" width="48" height="48" alt="Quasar" />
+      </a>
+      <br>Quasar
+    </td>
   </tr>
   <tr>
-    <td>    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td>
-    <td>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></td>
-    <td>    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-    <td><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.svg" alt="WordPress" width="40" height="40"/></td>
-    <td>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slim/slim-original.svg" alt="slim" width="40" height="40"/></td>
-    <td><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/></td>
+    <!-- Row 2 -->
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="After Effects" />
+      </a>
+      <br>AE
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>
+  </tr>
+  <tr>
+    <!-- Row 3 -->
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.php.net" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express.js" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
   </tr>
 </table>
 
