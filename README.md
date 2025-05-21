@@ -73,9 +73,6 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
       </a>
       <br>Quasar
     </td>
-  </tr>
-  <tr>
-    <!-- Row 2 -->
     <td align="center" width="96">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
@@ -88,6 +85,10 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
       </a>
       <br>AE
     </td>
+  </tr>
+
+  
+  <tr>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -106,9 +107,6 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
       </a>
       <br>Spring Boot
     </td>
-  </tr>
-  <tr>
-    <!-- Row 3 -->
     <td align="center" width="96">
       <a href="https://www.java.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
