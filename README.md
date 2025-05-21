@@ -27,7 +27,7 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
 <table>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/aqeel-hanslo" target="_blank">
+      <a href="https://www.linkedin.com/in/aqeel-hanslo-234961210/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
       </a>
     </td>
