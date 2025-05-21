@@ -25,10 +25,10 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aqeel-hanslo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeel-hanslo" height="30" width="40" style="display: inline-block; vertical-align: middle; margin-right: 12px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeel-hanslo" style="width: 40px; height: 40px; object-fit: contain; margin-right: 10px; padding: 2px;" />
   </a>
   <a href="https://instagram.com/aqeel__hanslo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqeeluser404" height="30" width="40" style="display: inline-block; vertical-align: middle; margin-right: 12px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqeeluser404" style="width: 40px; height: 40px; object-fit: contain; margin-right: 10px; padding: 2px;" />
   </a>
 </p>
 
