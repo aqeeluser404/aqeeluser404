@@ -22,9 +22,10 @@ I love building web apps that are fast, scalable, and secure; mixing creativity 
 
 <h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aqeel-hanslo" target="_blank" style="margin-right: 30px;">
+  <a href="https://linkedin.com/in/aqeel-hanslo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeel-hanslo" height="30" width="40" />
   </a>
+  <span style="display: inline-block; width: 30px;"></span>
   <a href="https://instagram.com/aqeel__hanslo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqeeluser404" height="30" width="40" />
   </a>
